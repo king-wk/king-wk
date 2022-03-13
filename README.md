@@ -6,6 +6,6 @@
 - ⭐欢迎给我好多好多的 star
 
 
-![king-wk's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=radical)
+![king-wk's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
