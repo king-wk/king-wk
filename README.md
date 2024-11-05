@@ -9,6 +9,6 @@
 
 ![BugSnipper's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=king-wk&show_icons=true&theme=dracula&include_all_commits=false)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=dracula&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=king-wk&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=e5289e&line=e5289e&point=ef8539&hide_border=true&days=40&height=500&radius=8&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=king-wk&theme=dracula&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=e5289e&line=e5289e&point=ef8539&hide_border=true&days=15&height=500&radius=8&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
