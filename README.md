@@ -1,4 +1,4 @@
-## Hi there, I'm king-wk👋
+![image](https://github.com/user-attachments/assets/3a7542d2-0b74-4202-830f-e2437da0fdd0)## Hi there, I'm king-wk👋
 
 - 🔭 I’m currently working on research related to real-time video transmission, especially focusing on architectures like WebRTC. I’m particularly interested in bandwidth estimation, forward error correction (FEC), and bitrate control.
 - ⚡ I’ve previously worked on enhancing VOD (Video on Demand) video quality with super-resolution techniques, and have interned in the short video industry, focusing on video clarity optimization.
@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=king-wk&theme=dracula&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=e5289e&line=e5289e&point=ef8539&hide_border=true&days=15&height=500&radius=8&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=king-wk&theme=dracula&hide_border=true&days=15&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
