@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&theme=synthwave&bg_color=2b213a&langs_count=6&border_color=61dafb&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=king-wk&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=61dafb&line=e5289e&point=ef8539&days=10&height=500&radius=8&area=true)](https://github.com/anuraghazra/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=king-wk&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=e5289e&line=e5289e&point=ef8539&days=10&height=500&border_color=61dafb&radius=8&area=true)](https://github.com/anuraghazra/github-readme-activity-graph)
