@@ -6,15 +6,6 @@
 - 👯 I’m looking to collaborate on projects related to video transmission, real-time streaming technologies, and game development.
 - 📫 How to reach me: You can reach me via GitHub issues or email.
 
+![BugSnipper's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=synthwave&count_private=true)
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=synthwave&count_private=true" alt="BugSnipper's GitHub stats">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&theme=synthwave" alt="Top Langs">
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=king-wk&theme=synthwave" alt="Activity Graph">
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
