@@ -7,4 +7,4 @@
 
 ![king-wk's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=radical)
 
-[![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats.codestackr.vercel.app)/api/top-langs/?username=king-wk&layout=compact&theme=dracula)](https://github.com/king-wk/king-wk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?/api/top-langs/?username=king-wk&layout=compact&theme=dracula)
