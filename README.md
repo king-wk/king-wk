@@ -8,10 +8,10 @@
 
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=synthwave&border_color=61dafb&border_radius=8&include_all_commits=false&count_private=true" alt="BugSnipper's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=king-wk&show_icons=true&theme=synthwave&count_private=true" alt="BugSnipper's GitHub stats">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&theme=synthwave&bg_color=2b213a&langs_count=6&border_color=61dafb&border_radius=8" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-wk&theme=synthwave" alt="Top Langs">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-activity-graph">
