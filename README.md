@@ -7,6 +7,6 @@
 - 📫 How to reach me: You can reach me via GitHub issues or email.
 
 
-![BugSnipper's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=king-wk&show_icons=true&theme=dracula)
+![BugSnipper's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=king-wk&show_icons=true&theme=dracula&include_all_commits=false)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=king-wk&layout=compact&theme=dracula&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
