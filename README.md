@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on projects related to video transmission, real-time streaming technologies, and game development.
 - 📫 How to reach me: You can reach me via GitHub issues or email.
 
-![BugSnipper's GitHub stats](github-readme-stats-caq0qvg5q-king-wks-projects.vercel.app/api?username=king-wk&show_icons=true&theme=ambient_gradient&count_private=true)
+![BugSnipper's GitHub stats](https://github-readme-stats-git-master-king-wks-projects.vercel.app/api?username=king-wk&show_icons=true&theme=ambient_gradient&count_private=true)
 
-[![Top Langs](github-readme-stats-caq0qvg5q-king-wks-projects.vercel.app/api/top-langs/?username=king-wk&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-king-wks-projects.vercel.app/api/top-langs/?username=king-wk&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
